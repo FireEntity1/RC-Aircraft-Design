@@ -28,6 +28,11 @@ Thank you for reading and happy building!!
 Feel free to reach out with any questions regarding construction or flight!
 
 ![Built aircraft](https://github.com/user-attachments/assets/81a10211-ad2f-4851-8301-fbbe10733d71)
+![Tail Section](https://github.com/user-attachments/assets/e636fd04-c140-4410-ac8b-50e4094eb2d4)
+![Wingtip](https://github.com/user-attachments/assets/43f18288-d20d-44b7-89a2-cb6c5db69221)
+![Propeller closeup](https://github.com/user-attachments/assets/627c7919-eb57-4741-83e3-791e9a6e6097)
+
+
 
 
 https://github.com/user-attachments/assets/1de7d2b5-a0d6-459a-80c0-fe28b99d24c3
