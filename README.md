@@ -21,6 +21,14 @@ To build your own RC aircraft similar to this one, download the pdf file labelle
 
 Test the aircraft with short flights and make adjustments as needed before taking it for a full flight, fly gently and do not make harsh movements on the control sticks
 
+Decorate it as you please! Just remember to keep the weight low and not cover/damage sensitive electronics.
+
 Thank you for reading and happy building!!
 
 Feel free to reach out with any questions regarding construction or flight!
+
+![Built aircraft](https://github.com/user-attachments/assets/81a10211-ad2f-4851-8301-fbbe10733d71)
+
+
+https://github.com/user-attachments/assets/1de7d2b5-a0d6-459a-80c0-fe28b99d24c3
+
