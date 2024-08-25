@@ -1,9 +1,14 @@
 I built a fully controllable, self propelled electric RC aircraft, capable of flying up to 80km/h (tested) at an altitude of several thousand feet (theoretical). The entire aircraft weighs a mere 250 grams so it's legal to fly without any license around the world! Flies smoothly with its 3 channel control system, consisting of throttle control, rudder control, and elevator control. The wings have a polyhedral design allowing the aircraft to stabilize itself laterally and remove the need for ailerons! An oversized rudder allows for precise control and "drifting" mid-air! The propeller, which is 6 inches in diameter with a 4 inch pitch is capable of spinning at 17 thousand RPM on a full battery, while the motor pulls ~40-50 watts. The aircraft is controlled with a 2.4gHz TX/RX system. Winglets (triangles on the wingtip) improve aerodynamic efficiency by reducing wingtip vorticies and add major style points! Fully decorated with decals, stripes, and a faux aircraft registration drawn on the body! The aircraft has a wingspan of nearly 3 feet.
+Entering a deep stall is nearly impossible due to the nature of the aircraft, almost any mistake can be recovered if flown at a height of ~30-50 feet!
 
 ![Built aircraft](https://github.com/user-attachments/assets/81a10211-ad2f-4851-8301-fbbe10733d71)
 ![Tail Section](https://github.com/user-attachments/assets/e636fd04-c140-4410-ac8b-50e4094eb2d4)
 ![Wingtip](https://github.com/user-attachments/assets/43f18288-d20d-44b7-89a2-cb6c5db69221)
 ![Propeller closeup](https://github.com/user-attachments/assets/627c7919-eb57-4741-83e3-791e9a6e6097)
+
+Midflight:
+![image](https://github.com/user-attachments/assets/98b10acd-9818-4719-8406-cada511454d4)
+
 
 https://github.com/user-attachments/assets/1de7d2b5-a0d6-459a-80c0-fe28b99d24c3
 
